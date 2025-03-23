@@ -1,1 +1,1 @@
-# Smart-enegy-meter
+# Smart-energy-meter
